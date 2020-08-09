@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Basic Student Bio</title>
+</head>
+<body>
+
+<h1>Student Bio</h1>
+<h2>html images</h2>
+<p>html images are defined with the img tag:</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Abbi_Jacobson_and_Ilana_Glazer_at_Internet_Week_14_%28cropped%29.jpg/330px-Abbi_Jacobson_and_Ilana_Glazer_at_Internet_Week_14_%28cropped%29.jpg">
+
+</body>
+</html>
